@@ -1,0 +1,8 @@
+region,product,revenue,quantity,per_unit
+South,Widget A,1200,10,120.0
+North,Widget B,800,5,160.0
+South,Widget C,1500,12,125.0
+East,Widget A,950,8,118.75
+West,Widget B,1100,10,110.0
+South,Widget B,500,2,250.0
+North,Widget C,2000,15,133.33333333333334
