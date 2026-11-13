@@ -1,0 +1,8 @@
+region,product,revenue,quantity
+South,Widget A,1200,10
+North,Widget B,800,5
+South,Widget C,1500,12
+East,Widget A,950,8
+West,Widget B,1100,10
+South,Widget B,500,2
+North,Widget C,2000,15
